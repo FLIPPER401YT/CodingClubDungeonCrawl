@@ -1,4 +1,5 @@
 @echo off
+prompt [Dungeon Crawl]$S$G
 
 REM get the path where this file lives
 set "HERE=%~dp0"
