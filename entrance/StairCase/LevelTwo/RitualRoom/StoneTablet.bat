@@ -1,3 +1,4 @@
+@echo off
 echo(
 echo You contiue to follow the sound of crying, 
 echo leading you to what seems to be a room to perform Ruitals.
